@@ -1,0 +1,174 @@
+[2021.07.30 16:08:25] [0000m.00s.030ms] [0] WELCOME
+[2021.07.30 16:08:25] [0000m.00s.032ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.07.30 16:08:25] [0000m.00s.032ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.07.30 16:08:25] [0000m.00s.032ms] [1] Base flow version [VX.2.7]
+[2021.07.30 16:08:25] [0000m.00s.032ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.07.30 16:08:25] [0000m.00s.032ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.07.30 16:08:25] [0000m.00s.049ms] [1] Machine [DESKTOP-MGUG8JG]  IP [127.0.0.1,192.168.0.7]  User [Dell Inspiron 5547]  PID [14040]
+[2021.07.30 16:08:25] [0000m.00s.049ms] [1] Operating system [Microsoft Windows 10 Enterprise Edition, 64-bit (build 19043)]
+[2021.07.30 16:08:25] [0000m.00s.049ms] [1] Current working dir [C:\Users\Dell Inspiron 5547\OneDrive\Documentos\ITLA\2021-C2\Electiva Mecatronica\Proyecto(FreshCover)\FreshCover_V1]
+[2021.07.30 16:08:25] [0000m.00s.049ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common3D\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Java\jre1.8.0_251\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Dell Inspiron 5547\AppData\Local\Microsoft\WindowsApps;C:\Users\Dell Inspiron 5547\AppData\Roaming\Dashlane\6.1.0.11480\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\Dell Inspiron 5547\AppData\Roaming\Dashlane\6.1.0.11480\ucrt;C:\Users\Dell Inspiron 5547\AppData\Roaming\Dashlane\6.1.0.11480\bin\Qt;C:\Users\Dell Inspiron 5547\AppData\Roaming\Dashlane\6.1.0.11480\ucrt;C:\Users\Dell Inspiron 5547\AppData\Roaming\Dashlane\6.1.0.11480\bin\Ssl;C:\Users\Dell Inspiron 5547\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Dell Inspiron 5547\AppData\Local\atom\bin;C:\Users\Dell Inspiron 5547\AppData\Local\GitHubDesktop\bin]
+[2021.07.30 16:08:25] [0000m.00s.049ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.07.30 16:08:25] [0000m.00s.049ms] [1] SDD_PLATFORM [win32]
+[2021.07.30 16:08:25] [0000m.00s.049ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.07.30 16:08:25] [0000m.00s.049ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.07.30 16:08:25] [0000m.00s.049ms] [2] S: Loading config files
+[2021.07.30 16:08:25] [0000m.00s.053ms] [1] Config file [C:\Users\Dell Inspiron 5547\OneDrive\Documentos\ITLA\2021-C2\Electiva Mecatronica\Proyecto(FreshCover)\FreshCover_V1\database\cdbsvr\Server.cfg] not found
+[2021.07.30 16:08:25] [0000m.00s.055ms] [3] S: Config loaded
+[2021.07.30 16:08:25] [0000m.00s.063ms] [0] S: Project path [C:\Users\Dell Inspiron 5547\OneDrive\Documentos\ITLA\2021-C2\Electiva Mecatronica\Proyecto(FreshCover)\FreshCover_V1\database] on file system [NTFS]
+[2021.07.30 16:08:25] [0000m.00s.063ms] [0] S: Project file (.prj) path [C:\Users\Dell Inspiron 5547\OneDrive\Documentos\ITLA\2021-C2\Electiva Mecatronica\Proyecto(FreshCover)\FreshCover_V1\FreshCover_V1.prj] on file system [NTFS]
+[2021.07.30 16:08:25] [0000m.00s.064ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.07.30 16:08:25] [0000m.00s.064ms] [0] S: Single-user mode (auto)
+[2021.07.30 16:08:25] [0000m.00s.064ms] [0] S: Event polling mode autodetection
+[2021.07.30 16:08:25] [0000m.00s.065ms] [0] S: Started up automatically by iCDB Client: DESKTOP-MGUG8JG:Dell Inspiron 5547:1864
+[2021.07.30 16:08:25] [0000m.00s.065ms] [0] S: Auto close mode
+[2021.07.30 16:08:25] [0000m.00s.065ms] [0] S: Database ID [5064-a910-248c-994d-0cb7-bd06-cb7b-d060-c562-84fe-dedf-ff98]
+[2021.07.30 16:08:25] [0000m.00s.065ms] [0] PathTranslator: BEGIN dumping
+[2021.07.30 16:08:25] [0000m.00s.065ms] [0] PathTranslator: Local -> global path prefix list
+[2021.07.30 16:08:25] [0000m.00s.065ms] [0] PathTranslator: Global -> local path prefix list
+[2021.07.30 16:08:25] [0000m.00s.065ms] [0] PathTranslator: END dumping
+[2021.07.30 16:08:25] [0000m.00s.065ms] [0] S: START
+[2021.07.30 16:08:25] [0000m.00s.065ms] [0] S: Server startup lock file created
+[2021.07.30 16:08:25] [0000m.00s.066ms] [0] S: Listening for client connections on port [10001]
+[2021.07.30 16:08:25] [0000m.00s.067ms] [0] S: Server network ID [DESKTOP-MGUG8JG:192.168.0.7,DESKTOP-MGUG8JG:10001]
+[2021.07.30 16:08:25] [0000m.00s.067ms] [0] S: Server GUID [874e-3a1b-4453-2ed5-93c5-401f-3c54-0160-0583-94fe-dedf-ff98]
+[2021.07.30 16:08:25] [0000m.00s.067ms] [0] S: Project GUID [5064-a910-248c-994d-0cb7-bd06-cb7b-d060-c562-84fe-dedf-ff98]
+[2021.07.30 16:08:25] [0000m.00s.070ms] [0] S: Wrote data to server address file
+[2021.07.30 16:08:25] [0000m.00s.071ms] [0] S: Server startup lock file removed
+[2021.07.30 16:08:25] [0000m.00s.071ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\Dell Inspiron 5547\OneDrive\Documentos\ITLA\2021-C2\Electiva Mecatronica\Proyecto(FreshCover)\FreshCover_V1\FreshCover_V1.prj]
+[2021.07.30 16:08:25] [0000m.00s.202ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.07.30 16:08:25] [0000m.00s.203ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.07.30 16:08:25] [0000m.00s.203ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.07.30 16:08:25] [0000m.00s.206ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.07.30 16:08:25] [0000m.00s.206ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.07.30 16:08:25] [0000m.00s.206ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.07.30 16:08:25] [0000m.00s.207ms] [0] S: Local disc access time: 103 us
+[2021.07.30 16:08:25] [0000m.00s.207ms] [0] S: File server access time: 105 us
+[2021.07.30 16:08:25] [0000m.00s.209ms] [0] Single file [C:\Users\Dell Inspiron 5547\OneDrive\Documentos\ITLA\2021-C2\Electiva Mecatronica\Proyecto(FreshCover)\FreshCover_V1\database\icdb.dat] size [242288 (236.6 kB)]
+[2021.07.30 16:08:25] [0000m.00s.209ms] [1] Single file [C:\Users\Dell Inspiron 5547\OneDrive\Documentos\ITLA\2021-C2\Electiva Mecatronica\Proyecto(FreshCover)\FreshCover_V1\database\icdb.dat] opened in read-write mode
+[2021.07.30 16:08:25] [0000m.00s.209ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.07.30 16:08:25] [0000m.00s.209ms] [0] Database GUARD OK: [242288]
+[2021.07.30 16:08:25] [0000m.00s.211ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.07.30 16:08:25] [0000m.00s.211ms] [0] Database GUARD OK: [242288]
+[2021.07.30 16:08:25] [0000m.00s.212ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.07.30 16:08:25] [0000m.00s.212ms] [0] Database GUARD OK: [242288]
+[2021.07.30 16:08:25] [0000m.00s.213ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.07.30 16:08:25] [0000m.00s.213ms] [0] Database GUARD OK: [242288]
+[2021.07.30 16:08:25] [0000m.00s.213ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.07.30 16:08:25] [0000m.00s.214ms] [0] Database GUARD OK: [242288]
+[2021.07.30 16:08:25] [0000m.00s.214ms] [0] SingleFile: [128e-db15-ced7-7a46] SFI version check [1009] [1009]
+[2021.07.30 16:08:25] [0000m.00s.223ms] [0] SingleFile: [128e-db15-ced7-7a46] Database SFI header has been read in [10ms 224us]
+[2021.07.30 16:08:25] [0000m.00s.231ms] [0] iCDB Server PI: Server & plugin session [173]
+[2021.07.30 16:08:25] [0000m.00s.231ms] [0] iCDB Server PI: Opening database [C:\Users\Dell Inspiron 5547\OneDrive\Documentos\ITLA\2021-C2\Electiva Mecatronica\Proyecto(FreshCover)\FreshCover_V1\database]
+[2021.07.30 16:08:25] [0000m.00s.231ms] [0] iCDB Server PI: Database [C:\Users\Dell Inspiron 5547\OneDrive\Documentos\ITLA\2021-C2\Electiva Mecatronica\Proyecto(FreshCover)\FreshCover_V1\database] opened
+[2021.07.30 16:08:25] [0000m.00s.283ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.07.30 16:08:25] [0000m.00s.283ms] [0] iCDB Database: Checking constraint definitions version
+[2021.07.30 16:08:25] [0000m.00s.322ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.07.30 16:08:25] [0000m.00s.331ms] [0] iCDB Server PI: Initializing plugins
+[2021.07.30 16:08:25] [0000m.00s.332ms] [0] iCDB Server PI: Plugins initialized
+[2021.07.30 16:08:25] [0000m.00s.332ms] [0] S: iCDB database loaded
+[2021.07.30 16:08:25] [0000m.00s.334ms] [0] S: Starting threads
+[2021.07.30 16:08:25] [0000m.00s.334ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.07.30 16:08:25] [0000m.00s.335ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.07.30 16:08:25] [0000m.00s.339ms] [0] IT: Session [174] for host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] client type[0] clsvrPluginID[0] with process ID [1864] created
+[2021.07.30 16:08:25] [0000m.00s.343ms] [1] SC[174]: Registered sub-client [DxD] with ID [1] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:25] [0000m.00s.350ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.07.30 16:08:25] [0000m.00s.360ms] [0] IT: iCDB Server Monitor session [1] for host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] with process ID [8900] created
+[2021.07.30 16:08:25] [0000m.00s.360ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2021.07.30 16:08:25] [0000m.00s.449ms] [1] CMT: There are [1] clients now: 174
+[2021.07.30 16:08:25] [0000m.00s.544ms] [1] SC[174]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:25] [0000m.00s.573ms] [1] SC[174]: Registered sub-client [SymbolEditor] with ID [3] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:25] [0000m.00s.582ms] [1] SC[174]: Registered sub-client [SelectionHolder] with ID [4] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:25] [0000m.00s.646ms] [1] SC[174]: Registered sub-client [Core::DesignListener-320387976-0] with ID [5] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:25] [0000m.00s.652ms] [1] SC[174]: Registered sub-client [BlockCacheDxD:65840824] with ID [6] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:26] [0000m.00s.659ms] [1] SC[174]: Registered sub-client [Core::NetFlatData-13793] with ID [7] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:26] [0000m.00s.720ms] [1] SC[174]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:26] [0000m.00s.727ms] [1] SC[174]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:26] [0000m.00s.734ms] [1] SC[174]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:32] [0000m.07s.444ms] [1] SC[174]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:32] [0000m.07s.457ms] [1] SC[174]: Registered sub-client [HdlProject] with ID [11] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:32] [0000m.07s.469ms] [1] SC[174]: Registered sub-client [Navigator] with ID [12] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:32] [0000m.07s.509ms] [1] SC[174]: Registered sub-client [OutputWindow] with ID [13] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:32] [0000m.07s.515ms] [1] SC[174]: Registered sub-client [PlaceDevice] with ID [14] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:33] [0000m.07s.803ms] [1] SC[174]: Registered sub-client [FFSearch_RBHost] with ID [15] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:33] [0000m.07s.811ms] [1] SC[174]: Registered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:36] [0000m.11s.402ms] [1] SC[174]: Registered sub-client [FFSSelListener] with ID [17] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:36] [0000m.11s.410ms] [1] SC[174]: Registered sub-client [SAE] with ID [18] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:36] [0000m.11s.445ms] [1] SC[174]: Registered sub-client [DxConstraints] with ID [19] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:36] [0000m.11s.451ms] [1] SC[174]: Registered sub-client [CCZAddin] with ID [20] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:36] [0000m.11s.458ms] [1] SC[174]: Registered sub-client [DxThumbnails] with ID [21] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:36] [0000m.11s.466ms] [1] SC[174]: Registered sub-client [MyParts] with ID [22] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:36] [0000m.11s.516ms] [1] SC[174]: Registered sub-client [PinsList] with ID [23] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:37] [0000m.11s.769ms] [1] SC[174]: Registered sub-client [toolboxes] with ID [24] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:37] [0000m.11s.858ms] [1] SC[174]: Registered sub-client [IBDInstanceDialog] with ID [25] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:37] [0000m.11s.865ms] [1] SC[174]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:562661368] with ID [26] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:37] [0000m.12s.007ms] [1] SC[174]: Registered sub-client [SheetConnectorsCacheDxD:1627675717] with ID [27] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:37] [0000m.12s.148ms] [1] SC[174]: Registered sub-client [NetsNamesCollectorDxD:1627675717] with ID [28] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:37] [0000m.12s.244ms] [1] SC[174]: Registered sub-client [PartReplaceUtils] with ID [29] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:37] [0000m.12s.251ms] [1] SC[174]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:37] [0000m.12s.271ms] [1] SC[174]: Registered sub-client [xprob] with ID [31] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:37] [0000m.12s.529ms] [1] SC[174]: Registered sub-client [StartServerClient36f0] with ID [32] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:37] [0000m.12s.530ms] [1] SC[174]: UnRegistered sub-client [StartServerClient36f0] with ID [32] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:40] [0000m.15s.618ms] [1] SC[174]: Registered sub-client [DxDbSearch] with ID [33] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:08:44] [0000m.18s.863ms] [0] IT: Session [175] for host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] client type[0] clsvrPluginID[0] with process ID [9880] created
+[2021.07.30 16:08:44] [0000m.18s.892ms] [1] SC[175]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [175] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [9880]
+[2021.07.30 16:08:44] [0000m.18s.906ms] [1] CMT: There are [2] clients now: 174, 175
+[2021.07.30 16:08:45] [0000m.20s.324ms] [1] SC[175]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [175] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [9880]
+[2021.07.30 16:08:45] [0000m.20s.430ms] [1] CMT: Removed client [175]
+[2021.07.30 16:08:45] [0000m.20s.432ms] [1] CMT: There are [1] clients now: 174
+[2021.07.30 16:08:55] [0000m.30s.227ms] [0] DFAMT: File server access time: 130 us
+[2021.07.30 16:09:02] [0000m.37s.393ms] [1] SC[174]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:02] [0000m.37s.520ms] [1] SC[174]: UnRegistered sub-client [DesignSearcher2] with ID [10] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:02] [0000m.37s.550ms] [1] SC[174]: UnRegistered sub-client [Navigator] with ID [12] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:02] [0000m.37s.556ms] [1] SC[174]: UnRegistered sub-client [FFSSelListener] with ID [17] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:03] [0000m.37s.820ms] [1] SC[174]: UnRegistered sub-client [FFSearch_RBHost] with ID [15] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:03] [0000m.37s.887ms] [1] SC[174]: UnRegistered sub-client [MyParts] with ID [22] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:03] [0000m.37s.889ms] [1] SC[174]: UnRegistered sub-client [toolboxes] with ID [24] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:03] [0000m.38s.068ms] [1] SC[174]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:03] [0000m.38s.069ms] [1] SC[174]: UnRegistered sub-client [PartReplaceUtils] with ID [29] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:03] [0000m.38s.070ms] [1] SC[174]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:04] [0000m.39s.498ms] [1] SC[174]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:562661368] with ID [26] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:04] [0000m.39s.500ms] [1] SC[174]: UnRegistered sub-client [Core::NetFlatData-13793] with ID [7] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:04] [0000m.39s.501ms] [1] SC[174]: UnRegistered sub-client [BlockCacheDxD:65840824] with ID [6] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:04] [0000m.39s.501ms] [1] SC[174]: UnRegistered sub-client [Core::DesignListener-320387976-0] with ID [5] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:04] [0000m.39s.502ms] [1] SC[174]: UnRegistered sub-client [SheetConnectorsCacheDxD:1627675717] with ID [27] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:04] [0000m.39s.502ms] [1] SC[174]: UnRegistered sub-client [NetsNamesCollectorDxD:1627675717] with ID [28] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:04] [0000m.39s.510ms] [1] SC[174]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:04] [0000m.39s.511ms] [1] SC[174]: UnRegistered sub-client [DxD] with ID [1] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:04] [0000m.39s.533ms] [1] SC[174]: UnRegistered sub-client [xprob] with ID [31] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:04] [0000m.39s.534ms] [1] SC[174]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:04] [0000m.39s.567ms] [1] SC[174]: UnRegistered sub-client [OutputWindow] with ID [13] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:05] [0000m.39s.982ms] [1] SC[174]: UnRegistered sub-client [DxDbSearch] with ID [33] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:05] [0000m.40s.002ms] [1] SC[174]: UnRegistered sub-client [SAE] with ID [18] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:05] [0000m.40s.047ms] [1] SC[174]: UnRegistered sub-client [CCZAddin] with ID [20] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:05] [0000m.40s.059ms] [1] SC[174]: UnRegistered sub-client [DxThumbnails] with ID [21] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:37] [0001m.11s.938ms] [1] SC[174]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:37] [0001m.12s.020ms] [1] SC[174]: UnRegistered sub-client [DxConstraints] with ID [19] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:37] [0001m.12s.265ms] [1] SC[174]: UnRegistered sub-client [PinsList] with ID [23] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:37] [0001m.12s.518ms] [1] SC[174]: UnRegistered sub-client [PlaceDevice] with ID [14] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:38] [0001m.12s.692ms] [1] SC[174]: UnRegistered sub-client [IBDInstanceDialog] with ID [25] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:38] [0001m.12s.712ms] [1] SC[174]: UnRegistered sub-client [HdlProject] with ID [11] for session ID [174] host [DESKTOP-MGUG8JG] user [Dell Inspiron 5547] process ID [1864]
+[2021.07.30 16:09:38] [0001m.12s.737ms] [1] CMT: Removed client [174]
+[2021.07.30 16:09:38] [0001m.12s.737ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.07.30 16:09:38] [0001m.13s.027ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2021.07.30 16:09:40] [0001m.14s.717ms] [0] CMT: Starting server auto-close
+[2021.07.30 16:09:40] [0001m.14s.780ms] [0] S: Closing server
+[2021.07.30 16:09:40] [0001m.14s.873ms] [0] iCDB Server PI: Closing plugins
+[2021.07.30 16:09:40] [0001m.14s.873ms] [0] iCDB Server PI: Plugins closed
+[2021.07.30 16:09:40] [0001m.14s.873ms] [0] iCDB Server PI: Unloading database
+[2021.07.30 16:09:40] [0001m.14s.873ms] [0] iCDB Server PI: Saving storage
+[2021.07.30 16:09:40] [0001m.14s.873ms] [0] iCDB Server PI: Closing database
+[2021.07.30 16:09:40] [0001m.14s.925ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[0%] data[98%]
+[2021.07.30 16:09:40] [0001m.14s.925ms] [1] iCDB Server PI: Stats: Database file size [242816 (237.1 kB)]
+[2021.07.30 16:09:40] [0001m.14s.987ms] [0] iCDB Server PI: Database closed
+[2021.07.30 16:09:40] [0001m.14s.987ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [8465] ticks
+[2021.07.30 16:09:40] [0001m.14s.987ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [846] microseconds
+[2021.07.30 16:09:40] [0001m.14s.987ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [6]
+[2021.07.30 16:09:40] [0001m.14s.987ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [7088] commands per second
+[2021.07.30 16:09:40] [0001m.14s.987ms] [1] iCDB Server PI: Stats: Mem[33996800]
+[2021.07.30 16:09:40] [0001m.14s.987ms] [1] iCDB Server PI: Stats: MemPeak[44306432]
+[2021.07.30 16:09:40] [0001m.14s.988ms] [0] Single file [C:\Users\Dell Inspiron 5547\OneDrive\Documentos\ITLA\2021-C2\Electiva Mecatronica\Proyecto(FreshCover)\FreshCover_V1\database\icdb.dat] closed with size [242816 (237.1 kB)]
+[2021.07.30 16:09:40] [0001m.15s.080ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2021.07.30 16:09:40] [0001m.15s.241ms] [0] MWT: Destroy the shutdown block reason.
+[2021.07.30 16:09:40] [0001m.15s.244ms] [0] MWT: STOP
+[2021.07.30 16:09:40] [0001m.15s.245ms] [0] S: STOP
